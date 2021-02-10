@@ -16,6 +16,7 @@ public class Practica1 {
     public static void main(String[] args) {
 
         int[] v = new int[]{1, 2, 3, 4};
+        //linia repositori remote
 //linia agrgada para Github
         //primer cas (modifica el vector!!)
 //        System.out.println(Arrays.toString(operaVector(v, 2, true)));
